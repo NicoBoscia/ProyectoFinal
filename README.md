@@ -1,6 +1,6 @@
 # ProyectoFinal
 
-Trabajo realizado por: Nicolas Boscia, Gerónimo Cabrera Massera, Dante Galmarini.
+Trabajo realizado por: Nicolás Boscia, Gerónimo Cabrera Massera, Dante Galmarini.
 
 Proyecto elegido: Sistema de reservas para un restaurante.
 
